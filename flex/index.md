@@ -4,7 +4,7 @@ layout: default
 
 # Demo Shop Image Download
 
-We’ve included all of the **placeholder images** as seen in our demo shops for your to download here! This means that you can use the same images in your own shop as we do in our demos, which you may want to keep forever or even just while you’re building out the rest of the shop. Either way, we encourage you to use them as they may be a source of inspiration and help flex your creative muscles! 
+We’ve included all of the **placeholder images** as seen in our demo shops for you to download here! This means that you can use the same images in your own shop as we do in our demos, which you may want to keep forever or even just while you’re building out the rest of the shop. Either way, we encourage you to use them as they may be a source of inspiration and help flex your creative muscles! 
 
 **Step 1: Click the ‘Download Zip File’ button on the left.**
 
